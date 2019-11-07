@@ -4,6 +4,7 @@ Scanned By Me Developers Guide
 ——————————————————————————————————————————-
 Project Description
 ——————————————————————————————————————————-
+
 Scanned By Me is an Android application designed to scan your receipts and track your transactions in a safe and orderly manner. The application can be used to split payments for any transactions among others involved. All the purchases made will be recorded and logged on the application for later viewing. 
 
 ——————————————————————————————————————————-
